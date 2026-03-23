@@ -1,5 +1,5 @@
 build:
   id: 0000001
   version: 00000.0.1
-  name: "DeF-GIT-Production-Build"
+  name: "Default-GIT-Production-Build"
   type: "GIT Default Build"
